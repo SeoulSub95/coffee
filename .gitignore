@@ -1,0 +1,14 @@
+/.metadata/
+*.xml
+*.properties
+*.policy
+*.prefs
+*.jar
+Servers/.project
+*.MF
+*.name
+*.container
+*.component
+coffee_1211/.settings/.jsdtscope
+coffee_1211/.project
+coffee_1211/.classpath
